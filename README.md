@@ -4,7 +4,7 @@
 Letme see [click](https://www.tinkercad.com/things/1c8R3luZMVI-two-rgb-lights)
 
 
-```
+
 ![Image](https://csg.tinkercad.com/things/1c8R3luZMVI/t725.png?rev=1720608073254000000&s=&v=1&type=circuits)
-```
+
 
