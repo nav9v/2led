@@ -1,5 +1,4 @@
 ---
-
 ## LED Control via User Input 
 
 The program prompts the user for input via the serial monitor to control the LEDs. Users can specify:
